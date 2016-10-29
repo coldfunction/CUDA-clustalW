@@ -1,5 +1,5 @@
 1. source code:
-	All in the CPU and GPU directory.
+    All in the CPU and GPU directory.
 
 2. How to compile?
 	compile:
