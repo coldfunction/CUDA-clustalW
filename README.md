@@ -29,23 +29,21 @@
 |1000|			1002
 |1000|			1523
   
-
-
 4. How to test?
 
-  a. CPU:
+a. CPU:
 
     $ ./run_cpu.sh [number of sequence] [sequence length]
 
-   Example:
+ Example:
 
   	$ ./run_cpu.sh 100 498	
 
-	b. GPU:
+b. GPU:
 
-  	$ ./run_gpu.sh [number of sequence] [sequence length]
+    $ ./run_gpu.sh [number of sequence] [sequence length]
 
-   Example:
+Example:
 
     $ ./run_gpu.sh 100 498	
 		
